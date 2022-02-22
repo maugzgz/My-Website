@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: grey;
+  background-color: #F5F5F5;
+}
+
+.intro {
+  width: 30%;
+  margin:auto;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin-top: 50px;
+}
+
+.skills-photo {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2 {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.skill {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  margin-bottom: 100px;
+}
+
+.skill-row {
+width: 50%;
+margin:auto;
+margin-top: 100px;
+margin-bottom: 100px;
+text-align: left;
+
+}
+
+ a {
+   color: #F5F5F5;
+   margin: 10px 20px;
+   text-decoration: none;
+ }
+
+a:hover {
+  color: #F5F5F5;
+}
+
+
+h1 {
+font-size: 5.625rem;
+line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #F05454;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #F05454;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #30475E;
+
+}
+
+p {
+  line-height: 2;
+}
+
+
+.footer-link {
+  color: #30475E;
+}
+
+.btn {
+  color: #F05454;
+}
+
+
+.top-container {
+  background-color: #F5F5F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+background-color: #F5F5F5;
+margin: 100px 0;
+
+}
+
+.bottom-container {
+background-color: #F05454;
+padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+
+hr {
+  border: dotted #30475E 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: auto;
+  margin-top: 50px;
+
+
+}
+
+
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: WHITE;
+  font-size: 23px;
+  background: #30475E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F05454;
+  text-decoration: none;
+}
+
+.copy-rigth {
+  color: #F5F5F5;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
